@@ -1,4 +1,4 @@
-#Wed Sep 06 16:48:58 CEST 2017
-base.0=C\:\\Users\\alvar\\AndroidProjects\\PurchaseList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+#Fri Nov 17 23:38:54 CET 2017
+base.0=/home/jnoma/AndroidStudioProjects/PurchaseList/app/build/intermediates/transforms/dexMerger/debug/4
 renamed.0=classes.dex
-file.0=C\:\\Users\\alvar\\AndroidProjects\\PurchaseList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
+file.0=/home/jnoma/AndroidStudioProjects/PurchaseList/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex

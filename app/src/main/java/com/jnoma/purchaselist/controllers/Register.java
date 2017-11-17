@@ -38,18 +38,36 @@ public class Register extends AppCompatActivity {
                 byte errorState;
                 boolean everythingIsCorrect;
 
+                everythingIsCorrect = false;
                 //STEP 1: verifying that username is ok
                 errorState = RegisterHelper.verifyUsername(etUsername.getText().toString());
 
                 if(errorState == 1){
                     etUsername.setError(getString(R.string.em_username_correct));
+                    errorState = 3;
                 }else if(errorState == 2){
                     etUsername.setError(getString(R.string.em_username_used));
+                    errorState = 3;
                 }
 
                 //STEP 2: verifying that email is ok
+                if(errorState != 3){
+                    errorState = RegisterHelper.verifyEmail(etEmail.getText().toString());
+
+                    if(errorState == 1){
+                        etEmail.setError(getString(R.string.em_email_correct));
+                    }else if(errorState == 2){
+                        etEmail.setError(getString(R.string.em_email_used));
+                    }else {
+                        everythingIsCorrect = true;
+                    }
+                }
 
                 //STEP 3: verifying that passwords is ok
+                if(everythingIsCorrect){
+
+                    //TODO: register the new user in firebase
+                }
             }
         });
     }

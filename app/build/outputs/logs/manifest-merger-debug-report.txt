@@ -1,242 +1,356 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/73ce1386a8e0f6dfeb574a5a527c64ed/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/75d29e2b3d5078db05f983ea9ed1f5eb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jnoma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a2ec013b8a20310c12697d8b86a2150/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-database-10.0.1.aar/80fa645d699e71aeb78efcceb2238d11/AndroidManifest.xml:2:1-4:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/860883327892d2a333273fefa1c9b5c4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/098b6e0caed31ed2d5ea10da56a3cab8/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/1905e495d41b03500ca91d19f3803644/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b13db62b568f43804ca4721596d81a94/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/8728eb3f091492d94ed3fe0e6d327954/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/55268784f61d41ce142a6fdd3d8a02cf/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.0.1.aar/2f99442faafbbfea5e7b8098f8d62954/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/42e21f6c35f790a20a2c39c39be365d4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/89b25db41d233491f2bc45a528c442c5/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/06e47a7738ca3351dcefda70d673cfca/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5913e98ac9cba0ef29ebe99dedaf91da/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/6f69fd464fc58ebe48a691caaa03ab27/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/12c430f412dd1cc2949a66ca8e5d549a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/8754daee85256f8123e8a7c1a7b02c31/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7301ffb357840cf4b97135acd2ae9a1b/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:5:5-21:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alvar\.android\build-cache\b3bc5e8babf76271560337095dfe6e8a37171c8b\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\ef205f4c3be4b0373cdda5bc2a7c131dc68864a3\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\79fbf200c964574beb7b332d8901fa841d6a15b2\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\16aef9c310f1ea2465faea3df848e6172ce4c453\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\eb629b1d50249aa5cd2d30dc416133c7fbd4a6e8\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\e0b7f64f635977685c2e7bc2e40a74be71942442\output\AndroidManifest.xml:26:5-20
-MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\alvar\.android\build-cache\101d1ad369f93e86c0a75d14aa9cfd7b9f38401a\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\alvar\.android\build-cache\4a826e1b4034fcf30ab613f2f76599537a9b417c\output\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:28:5-50:19
-MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\alvar\.android\build-cache\4f51da931b3b27b532ead82a982d7365243c7f46\output\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\alvar\.android\build-cache\71698a624c1d310d96aa9b4fdb4b284524b3e589\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\alvar\.android\build-cache\f0d4b4174895619a3dffd668b240edf80ae5b28e\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\154cdd8ae1e17282eb933f5d8679e42068432dc6\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\bf862c0a895bb6284dbe887f96af72e0c36681d9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\afba57506cf6bc660d59d69ff0f1c0eeae17a97f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\bb589fe8a5aa23972ea4bdde2e55490a73a74d14\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\d2a8229a88a64a8199e3efc94b2ce373286f33bb\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\f971fa27de60bdad74140efcf2bfa77993976f2d\output\AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:8:9-41
+ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/73ce1386a8e0f6dfeb574a5a527c64ed/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/73ce1386a8e0f6dfeb574a5a527c64ed/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/75d29e2b3d5078db05f983ea9ed1f5eb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/75d29e2b3d5078db05f983ea9ed1f5eb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jnoma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a2ec013b8a20310c12697d8b86a2150/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jnoma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a2ec013b8a20310c12697d8b86a2150/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/098b6e0caed31ed2d5ea10da56a3cab8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/098b6e0caed31ed2d5ea10da56a3cab8/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/1905e495d41b03500ca91d19f3803644/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/1905e495d41b03500ca91d19f3803644/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b13db62b568f43804ca4721596d81a94/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b13db62b568f43804ca4721596d81a94/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/55268784f61d41ce142a6fdd3d8a02cf/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/55268784f61d41ce142a6fdd3d8a02cf/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/42e21f6c35f790a20a2c39c39be365d4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/42e21f6c35f790a20a2c39c39be365d4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/89b25db41d233491f2bc45a528c442c5/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/89b25db41d233491f2bc45a528c442c5/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/06e47a7738ca3351dcefda70d673cfca/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/06e47a7738ca3351dcefda70d673cfca/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5913e98ac9cba0ef29ebe99dedaf91da/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5913e98ac9cba0ef29ebe99dedaf91da/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/6f69fd464fc58ebe48a691caaa03ab27/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/6f69fd464fc58ebe48a691caaa03ab27/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/12c430f412dd1cc2949a66ca8e5d549a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/12c430f412dd1cc2949a66ca8e5d549a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/8754daee85256f8123e8a7c1a7b02c31/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/8754daee85256f8123e8a7c1a7b02c31/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7301ffb357840cf4b97135acd2ae9a1b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7301ffb357840cf4b97135acd2ae9a1b/AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:9:9-54
-	android:allowBackup
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.jnoma.purchaselist.controllers.Login
-ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:12:9-18:20
-	android:name
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:12:19-52
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:13:13-17:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:14:17-69
-	android:name
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:14:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:16:17-77
-	android:name
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:16:27-74
-activity#com.jnoma.purchaselist.controllers.MainActivity
-ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:19:9-62
-	android:name
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:19:19-59
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.jnoma.purchaselist.controllers.Register
-ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:20:9-67
+ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml:20:19-55
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:12:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.jnoma.purchaselist.controllers.MainActivity
+ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:19:9-62
+	android:name
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:19:19-59
+activity#com.jnoma.purchaselist.controllers.Login
+ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml:20:19-52
 uses-sdk
-INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alvar\.android\build-cache\b3bc5e8babf76271560337095dfe6e8a37171c8b\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\ef205f4c3be4b0373cdda5bc2a7c131dc68864a3\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\79fbf200c964574beb7b332d8901fa841d6a15b2\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\16aef9c310f1ea2465faea3df848e6172ce4c453\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\eb629b1d50249aa5cd2d30dc416133c7fbd4a6e8\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\011000ce1d45a0595fa3f330415063d1c734eb6d\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\e0b7f64f635977685c2e7bc2e40a74be71942442\output\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\alvar\.android\build-cache\4b753c35211015f2685b9a3892ccbbff596c39c0\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\alvar\.android\build-cache\be9cb635dc31e8ccdac66551e7a06ca749832a2d\output\AndroidManifest.xml:3:5-42
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\alvar\.android\build-cache\d0d9caf50b2fc0429fdc641bfd1ea60141705cb1\output\AndroidManifest.xml:5:5-43
-MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\alvar\.android\build-cache\101d1ad369f93e86c0a75d14aa9cfd7b9f38401a\output\AndroidManifest.xml:4:5-42
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\alvar\.android\build-cache\4a826e1b4034fcf30ab613f2f76599537a9b417c\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\alvar\.android\build-cache\4f51da931b3b27b532ead82a982d7365243c7f46\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\alvar\.android\build-cache\71698a624c1d310d96aa9b4fdb4b284524b3e589\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\alvar\.android\build-cache\f0d4b4174895619a3dffd668b240edf80ae5b28e\output\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\154cdd8ae1e17282eb933f5d8679e42068432dc6\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\bf862c0a895bb6284dbe887f96af72e0c36681d9\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\afba57506cf6bc660d59d69ff0f1c0eeae17a97f\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\bb589fe8a5aa23972ea4bdde2e55490a73a74d14\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\d2a8229a88a64a8199e3efc94b2ce373286f33bb\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\f971fa27de60bdad74140efcf2bfa77993976f2d\output\AndroidManifest.xml:21:5-23:58
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/73ce1386a8e0f6dfeb574a5a527c64ed/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/73ce1386a8e0f6dfeb574a5a527c64ed/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/75d29e2b3d5078db05f983ea9ed1f5eb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/75d29e2b3d5078db05f983ea9ed1f5eb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jnoma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a2ec013b8a20310c12697d8b86a2150/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jnoma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a2ec013b8a20310c12697d8b86a2150/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-database-10.0.1.aar/80fa645d699e71aeb78efcceb2238d11/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-database-10.0.1.aar/80fa645d699e71aeb78efcceb2238d11/AndroidManifest.xml:3:5-42
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/860883327892d2a333273fefa1c9b5c4/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/860883327892d2a333273fefa1c9b5c4/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/098b6e0caed31ed2d5ea10da56a3cab8/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/098b6e0caed31ed2d5ea10da56a3cab8/AndroidManifest.xml:4:5-42
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/1905e495d41b03500ca91d19f3803644/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/1905e495d41b03500ca91d19f3803644/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b13db62b568f43804ca4721596d81a94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b13db62b568f43804ca4721596d81a94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/8728eb3f091492d94ed3fe0e6d327954/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/8728eb3f091492d94ed3fe0e6d327954/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/55268784f61d41ce142a6fdd3d8a02cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/55268784f61d41ce142a6fdd3d8a02cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.0.1.aar/2f99442faafbbfea5e7b8098f8d62954/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.0.1.aar/2f99442faafbbfea5e7b8098f8d62954/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/42e21f6c35f790a20a2c39c39be365d4/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/42e21f6c35f790a20a2c39c39be365d4/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/89b25db41d233491f2bc45a528c442c5/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/89b25db41d233491f2bc45a528c442c5/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/06e47a7738ca3351dcefda70d673cfca/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/06e47a7738ca3351dcefda70d673cfca/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5913e98ac9cba0ef29ebe99dedaf91da/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5913e98ac9cba0ef29ebe99dedaf91da/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/6f69fd464fc58ebe48a691caaa03ab27/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/6f69fd464fc58ebe48a691caaa03ab27/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/12c430f412dd1cc2949a66ca8e5d549a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/12c430f412dd1cc2949a66ca8e5d549a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/8754daee85256f8123e8a7c1a7b02c31/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/8754daee85256f8123e8a7c1a7b02c31/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7301ffb357840cf4b97135acd2ae9a1b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7301ffb357840cf4b97135acd2ae9a1b/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\ef205f4c3be4b0373cdda5bc2a7c131dc68864a3\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/73ce1386a8e0f6dfeb574a5a527c64ed/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alvar\AndroidProjects\PurchaseList\app\src\main\AndroidManifest.xml
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+		ADDED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jnoma/AndroidStudioProjects/PurchaseList/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\ef205f4c3be4b0373cdda5bc2a7c131dc68864a3\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\79fbf200c964574beb7b332d8901fa841d6a15b2\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\16aef9c310f1ea2465faea3df848e6172ce4c453\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\eb629b1d50249aa5cd2d30dc416133c7fbd4a6e8\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\011000ce1d45a0595fa3f330415063d1c734eb6d\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\e0b7f64f635977685c2e7bc2e40a74be71942442\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\154cdd8ae1e17282eb933f5d8679e42068432dc6\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\bf862c0a895bb6284dbe887f96af72e0c36681d9\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\afba57506cf6bc660d59d69ff0f1c0eeae17a97f\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\bb589fe8a5aa23972ea4bdde2e55490a73a74d14\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\d2a8229a88a64a8199e3efc94b2ce373286f33bb\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\f971fa27de60bdad74140efcf2bfa77993976f2d\output\AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/73ce1386a8e0f6dfeb574a5a527c64ed/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/75d29e2b3d5078db05f983ea9ed1f5eb/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/75d29e2b3d5078db05f983ea9ed1f5eb/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/1905e495d41b03500ca91d19f3803644/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/1905e495d41b03500ca91d19f3803644/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b13db62b568f43804ca4721596d81a94/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b13db62b568f43804ca4721596d81a94/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/8728eb3f091492d94ed3fe0e6d327954/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/8728eb3f091492d94ed3fe0e6d327954/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/55268784f61d41ce142a6fdd3d8a02cf/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/55268784f61d41ce142a6fdd3d8a02cf/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/06e47a7738ca3351dcefda70d673cfca/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/06e47a7738ca3351dcefda70d673cfca/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5913e98ac9cba0ef29ebe99dedaf91da/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5913e98ac9cba0ef29ebe99dedaf91da/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/6f69fd464fc58ebe48a691caaa03ab27/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/6f69fd464fc58ebe48a691caaa03ab27/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/12c430f412dd1cc2949a66ca8e5d549a/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/12c430f412dd1cc2949a66ca8e5d549a/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/8754daee85256f8123e8a7c1a7b02c31/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/8754daee85256f8123e8a7c1a7b02c31/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7301ffb357840cf4b97135acd2ae9a1b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7301ffb357840cf4b97135acd2ae9a1b/AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\ef205f4c3be4b0373cdda5bc2a7c131dc68864a3\output\AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/73ce1386a8e0f6dfeb574a5a527c64ed/AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\alvar\.android\build-cache\ef205f4c3be4b0373cdda5bc2a7c131dc68864a3\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/73ce1386a8e0f6dfeb574a5a527c64ed/AndroidManifest.xml:26:9-47
 uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\alvar\.android\build-cache\4a826e1b4034fcf30ab613f2f76599537a9b417c\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:20:5-66
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:20:22-64
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:20:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\alvar\.android\build-cache\4a826e1b4034fcf30ab613f2f76599537a9b417c\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:19:5-78
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:21:22-76
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:21:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\alvar\.android\build-cache\4a826e1b4034fcf30ab613f2f76599537a9b417c\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:21:5-67
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:22:22-65
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:22:22-65
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\alvar\.android\build-cache\4a826e1b4034fcf30ab613f2f76599537a9b417c\output\AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\alvar\.android\build-cache\4a826e1b4034fcf30ab613f2f76599537a9b417c\output\AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/581d74a74423d0f8a5084f4d86b5eca2/AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\alvar\.android\build-cache\38f1067cf1ef763bd540cadcb614462771e73faa\output\AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b063b7a1ad6e20d666a0893cdbef4544/AndroidManifest.xml:32:16-87
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:22:5-81
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:22:22-79
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:22:22-79
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:24:17-71
+permission#com.jnoma.purchaselist.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:26:22-76
+uses-permission#com.jnoma.purchaselist.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:30:9-36:20
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:30:9-36:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:31:13-35:29
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:31:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.jnoma.purchaselist
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:31:13-35:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:32:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:33:17-85
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:33:17-85
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:33:25-83
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:33:25-83
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:34:17-60
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:34:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:34:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:34:27-58
+category#com.jnoma.purchaselist
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:34:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:40:9-119
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:40:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:40:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:40:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:40:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:40:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:44:9-48:19
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:44:9-48:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:44:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:44:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:44:18-82
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:44:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:45:13-47:29
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:45:13-47:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:45:28-51
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:45:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:46:17-79
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:46:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\alvar\.android\build-cache\28802c4c84ecd286bdb419b7c66c79a9353072e2\output\AndroidManifest.xml:46:25-77
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/a519435c53a75732893f33532b612055/AndroidManifest.xml:46:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\alvar\.android\build-cache\4f51da931b3b27b532ead82a982d7365243c7f46\output\AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\alvar\.android\build-cache\4f51da931b3b27b532ead82a982d7365243c7f46\output\AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\alvar\.android\build-cache\4f51da931b3b27b532ead82a982d7365243c7f46\output\AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\alvar\.android\build-cache\4f51da931b3b27b532ead82a982d7365243c7f46\output\AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\alvar\.android\build-cache\4f51da931b3b27b532ead82a982d7365243c7f46\output\AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/84140c6ed699f25d9fd23c6eb8f865d2/AndroidManifest.xml:6:79-143
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\alvar\.android\build-cache\f0d4b4174895619a3dffd668b240edf80ae5b28e\output\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/89b25db41d233491f2bc45a528c442c5/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\alvar\.android\build-cache\f0d4b4174895619a3dffd668b240edf80ae5b28e\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/89b25db41d233491f2bc45a528c442c5/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\alvar\.android\build-cache\f0d4b4174895619a3dffd668b240edf80ae5b28e\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/jnoma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/89b25db41d233491f2bc45a528c442c5/AndroidManifest.xml:20:20-65

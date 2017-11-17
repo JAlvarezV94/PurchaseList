@@ -18,7 +18,7 @@
     <!--MESSAGES-->
 
     <!--ERROR MESSAGES-->
-    <string name="em_username_correct">8 chars at lest and no special chars</string>
+    <string name="em_username_correct">4 chars at lest and no special chars</string>
     <string name="em_username_used">This username is already in use</string>
     <string name="em_email_correct">this is not a valid email</string>
     <string name="em_email_used">this email is already in use</string>

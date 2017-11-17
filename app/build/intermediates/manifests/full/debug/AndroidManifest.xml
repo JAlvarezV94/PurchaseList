@@ -24,12 +24,14 @@
 
     <application
         android:allowBackup="true"
+        android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.jnoma.purchaselist.controllers.Login" >
+        <activity android:name="com.jnoma.purchaselist.controllers.Register" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -37,7 +39,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.jnoma.purchaselist.controllers.MainActivity" />
-        <activity android:name="com.jnoma.purchaselist.controllers.Register" />
+        <activity android:name="com.jnoma.purchaselist.controllers.Login" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
