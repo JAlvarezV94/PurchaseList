@@ -21,7 +21,7 @@ public class Register extends AppCompatActivity {
     @BindView(R.id.et_passord_register)
     EditText etPass;
     @BindView(R.id.et_repeat_password)
-    EditText erRepeatPass;
+    EditText etRepeatPass;
     @BindView(R.id.bt_register)
     Button btRegister;
 
@@ -44,26 +44,35 @@ public class Register extends AppCompatActivity {
 
                 if(errorState == 1){
                     etUsername.setError(getString(R.string.em_username_correct));
-                    errorState = 3;
                 }else if(errorState == 2){
                     etUsername.setError(getString(R.string.em_username_used));
-                    errorState = 3;
                 }
 
                 //STEP 2: verifying that email is ok
-                if(errorState != 3){
+                if(errorState == 0){
                     errorState = RegisterHelper.verifyEmail(etEmail.getText().toString());
 
                     if(errorState == 1){
                         etEmail.setError(getString(R.string.em_email_correct));
                     }else if(errorState == 2){
                         etEmail.setError(getString(R.string.em_email_used));
-                    }else {
-                        everythingIsCorrect = true;
                     }
                 }
 
                 //STEP 3: verifying that passwords is ok
+                if(errorState == 0){
+                    errorState = RegisterHelper.verifyPassword(etPass.getText().toString(),etRepeatPass.getText().toString());
+
+                    if(errorState == 1){
+                        etPass.setError(getString(R.string.em_password_correct));
+                    }else if(errorState == 2){
+                        etRepeatPass.setError(getString(R.string.em_password_matches));
+                    }else{
+                        everythingIsCorrect = true;
+                    }
+                }
+
+                //STEP 4: if everything's ok then proceeding to register!
                 if(everythingIsCorrect){
 
                     //TODO: register the new user in firebase

@@ -44,18 +44,21 @@
             android:id="@+id/et_email_register"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
             android:hint="@string/et_email"/>
 
         <EditText
             android:id="@+id/et_passord_register"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:inputType="textPassword"
             android:hint="@string/et_password"/>
 
         <EditText
             android:id="@+id/et_repeat_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:inputType="textPassword"
             android:hint="@string/et_repeat"/>
 
         <LinearLayout

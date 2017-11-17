@@ -50,13 +50,42 @@ public class RegisterHelper {
         matcher = pattern.matcher(email);
 
         //STEP 1: Verifying that the username is valid
-        if(matcher.find()){
+        if(!matcher.find()){
             errorState = 1;
         }
 
         //STEP 2: Verifying that the username is not in use
         if(errorState==0){
             //TODO: connecting with firebase and verifying that
+        }
+
+        return errorState;
+    }
+
+    public static byte verifyPassword(String pass1, String pass2){
+        byte errorState;
+        Matcher matcher;
+        Pattern pattern;
+
+        /**
+         * errorState - 0 everything is correct, don't worry ;)
+         * errorState - 1 password is not correct
+         * errorState - 2 passwords not match each other:(
+         */
+        errorState = 0;
+        pattern = Pattern.compile("[a-zA-Z]+[1-9]+");
+        matcher = pattern.matcher(pass1);
+
+        //STEP 1: verifying that the pass1 is correct
+        if(pass1.length()<8 || !matcher.find()){
+            errorState = 1;
+        }
+
+        //STEP 2: if it's correct, then match it with the pass2
+        if(errorState == 0){
+            if(!pass1.equals(pass2)){
+                errorState = 2;
+            }
         }
 
         return errorState;
