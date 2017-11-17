@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryLight"
+    tools:context="com.jnoma.purchaselist.controllers.Login">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/x32dp"
+        android:orientation="vertical"
+        android:background="@drawable/ct_white"
+        android:elevation="4dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="@dimen/x16dp"
+            android:background="@color/colorAccent"
+            android:text="@string/tv_login"
+            android:textSize="27sp"
+            android:textColor="@color/whiteColor"/>
+
+        <EditText
+            android:id="@+id/et_username_login"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/x32dp"
+            android:layout_marginRight="@dimen/x32dp"
+            android:hint="@string/et_username_login"
+            android:textSize="@dimen/x16sp"
+            android:inputType="textEmailAddress"/>
+        <EditText
+            android:id="@+id/et_password_login"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/x32dp"
+            android:layout_marginRight="@dimen/x32dp"
+            android:hint="@string/et_password_login"
+            android:textSize="@dimen/x16sp"
+            android:inputType="textPassword"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/x32dp"
+            android:layout_marginRight="@dimen/x32dp"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/bt_register"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/bt_register"
+                android:layout_weight="1"/>
+            <Button
+                android:id="@+id/bt_login"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="@color/colorAccent"
+                android:text="@string/bt_login"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_forgot_password"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/x16dp"
+            android:layout_marginBottom="@dimen/x16dp"
+            android:layout_marginLeft="@dimen/x32dp"
+            android:layout_marginRight="@dimen/x32dp"
+            android:text="@string/tv_forgot_password"
+            android:textSize="@dimen/x16dp"
+            android:gravity="center"/>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

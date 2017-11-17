@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\alvar\\AndroidProjects\\PurchaseList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\alvar\\.android\\build-cache\\79fbf200c964574beb7b332d8901fa841d6a15b2\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvar\\AndroidProjects\\PurchaseList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\alvar\\.android\\build-cache\\79fbf200c964574beb7b332d8901fa841d6a15b2\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvar\\AndroidProjects\\PurchaseList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\alvar\\.android\\build-cache\\79fbf200c964574beb7b332d8901fa841d6a15b2\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvar\\AndroidProjects\\PurchaseList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\alvar\\.android\\build-cache\\79fbf200c964574beb7b332d8901fa841d6a15b2\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

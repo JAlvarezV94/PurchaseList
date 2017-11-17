@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--DP dimens-->
+    <dimen name="x8dp">8dp</dimen>
+    <dimen name="x16dp">16dp</dimen>
+    <dimen name="x32dp">32dp</dimen>
+    <dimen name="x64dp">64dp</dimen>
+
+    <!--SP dimens-->
+    <dimen name="x4sp">4sp</dimen>
+    <dimen name="x8sp">8sp</dimen>
+    <dimen name="x16sp">16sp</dimen>
+    <dimen name="x32sp">32sp</dimen>
+
+    <!--Elements dimens-->
+    <dimen name="dm_login_width">232dp</dimen>
+
+</resources>

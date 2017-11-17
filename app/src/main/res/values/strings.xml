@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">PurchaseList</string>
+
+    <!--ELEMENTS TEXT-->
+    <string name="et_username">username</string>
+    <string name="et_password">password</string>
+    <string name="et_repeat">repeat password</string>
+    <string name="et_email">email</string>
+    <string name="bt_login">login</string>
+    <string name="bt_register">register</string>
+    <string name="tv_forgot_password">Forgot your password? - Tap here!</string>
+    <string name="tv_login">LOGIN</string>
+    <string name="tv_register">Register in a few seconds!</string>
+
+    <!--BUTTONS-->
+    <string name="bt_gotit_register">I Got IT! :)</string>
+    <!--MESSAGES-->
 </resources>
